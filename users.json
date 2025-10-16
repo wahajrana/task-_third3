@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Ayesha Khan",
+    "email": "ayesha.k@gmail.com",
+    "role": "Admin"
+  },
+  {
+    "id": 2,
+    "name": "Bilal Ahmed",
+    "email": "bilal.a@gmail.com",
+    "role": "Editor"
+  },
+  {
+    "id": 3,
+    "name": "Sadia Noor",
+    "email": "sadia.n@gmail.com",
+    "role": "Viewer"
+  },
+  {
+    "id": 4,
+    "name": "Omar Farooq",
+    "email": "omar.f@gmail.com",
+    "role": "Editor"
+  },
+  {
+    "id": 5,
+    "name": "Zain Ali",
+    "email": "zain.ali@gmail.com",
+    "role": "Viewer"
+  },
+  {
+    "id": 6,
+    "name": "Hina Malik",
+    "email": "hina.m@gmail.com",
+    "role": "Admin"
+  },
+  {
+    "id": 7,
+    "name": "Usman Tariq",
+    "email": "usman.t@gmail.com",
+    "role": "Viewer"
+  },
+  {
+    "id": 8,
+    "name": "Nisha Rafi",
+    "email": "nisha.r@gmail.com",
+    "role": "Editor"
+  },
+  {
+    "id": 9,
+    "name": "Ahmad Shah",
+    "email": "ahmad.s@gmail.com",
+    "role": "Viewer"
+  },
+  {
+    "id": 10,
+    "name": "Sara Iqbal",
+    "email": "sara.i@gmail.com",
+    "role": "Pro"
+  }
+
+]
